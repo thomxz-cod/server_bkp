@@ -1,0 +1,2 @@
+# 0 10 * * * /home/thom/Downloads/bkp_script
+# 1 10 * * * /home/thom/Downloads/servidor.py
